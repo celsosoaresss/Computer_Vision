@@ -1,1 +1,1 @@
-# Projetos utilizando Deep Learning
+# Projetos utilizando técnicas Visão Computacional
